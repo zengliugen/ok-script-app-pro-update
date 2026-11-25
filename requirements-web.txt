@@ -1,0 +1,2 @@
+# Compatibility alias: ok-script 3 uses the desktop Qt frontend.
+-r requirements.txt
