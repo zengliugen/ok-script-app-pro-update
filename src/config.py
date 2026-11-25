@@ -3,7 +3,7 @@ import os
 import numpy as np
 from ok import ConfigOption
 
-version = "v0.0.2-alpha.4"
+version = "v0.0.2-alpha.5"
 #不需要修改version, Github Action打包会自动修改
 
 gui_config = {
